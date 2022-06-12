@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.27.2",
     "dexie": "^2.0.4",
     "react": "^16.8.6",
     "react-detect-offline": "^2.4.0",
